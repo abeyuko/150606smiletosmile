@@ -1,0 +1,8 @@
+%YAML:1.0
+description: "2"
+samples:
+   - !!opencv-matrix
+      rows: 0
+      cols: 0
+      dt: u
+      data: []
